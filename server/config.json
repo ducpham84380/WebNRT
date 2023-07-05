@@ -1,0 +1,15 @@
+{
+    "domain":"http://localhost:3000",
+    "mail":{
+        "server":"",
+        "port":"",
+        "username":"",
+        "password":""
+    },
+    "mongoose":{
+        "server":"cluster0.a8gqm.mongodb.net",
+        "username":"Narutobako_21",
+        "password":"bkspuVyNR5p5ji9e",
+        "dbname":"Narutobako_211"
+    }
+}
